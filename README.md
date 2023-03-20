@@ -42,8 +42,6 @@
   <img src="https://profile-counter.glitch.me/valeriapm/count.svg?"  />
 </div>
 
-###
-
 <img src="https://raw.githubusercontent.com/valeriapm/valeriapm/blob/output/snake.svg" alt="Snake animation" />
 
 ###
