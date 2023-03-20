@@ -37,5 +37,4 @@
 
 <br clear="both">
 
-
-###
+<img src="https://raw.githubusercontent.com/daniel-oliv3/daniel-oliv3/output/github-contribution-grid-snake.svg" alt="SnakeAnimation" />
