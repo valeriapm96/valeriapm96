@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Valeria and I'm an HR Psychologist learning Programming, from Spain</h2>
+<h2 align="left">Hi 👋! My name is Valeria and I'm an HR Psychologist learning Programming, from Spain,</h2>
 
 ###
 
@@ -38,11 +38,8 @@
 
 <br clear="both">
 
+<img src="https://raw.githubusercontent.com/valeriapm96/valeriapm96/blob/output/snake.svg" alt="Snake animation" />
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/valeriapm/count.svg?"  />
-</div>
-
-<img src="https://raw.githubusercontent.com/valeriapm/valeriapm/blob/output/snake.svg" alt="Snake animation" />
+###
 
 ###
